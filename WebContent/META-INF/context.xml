@@ -1,0 +1,28 @@
+ <!--  
+ <Context>
+	<Resource name="jdbc/honinbo" 
+              auth="Container"
+              type="javax.sql.DataSource" 
+              url="jdbc:mysql://localhost/honinbo"
+              username="honinbo" 
+              password="ssi140429"
+              driverClassName="com.mysql.jdbc.Driver"
+              maxActive="10"
+              maxIdle="2"
+      />
+</Context>
+--> 
+ 
+<Context>
+	<Resource name="jdbc/mywdbpool" 
+              auth="Container"
+              type="javax.sql.DataSource" 
+              url="jdbc:mysql://localhost:3306/ajax"
+              username="dbuser1" 
+              password="920619"
+              driverClassName="com.mysql.jdbc.Driver"
+              maxActive="10"
+              maxIdle="2"
+      />
+</Context>
+
