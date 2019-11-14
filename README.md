@@ -3,15 +3,15 @@
 ### <주제>
 - jsp, ajax, json 연습을 위한 간단한 회원관리 프로그램
 
+<br />
 
-  
 ### <사용한 기술>
 
 - 프론트엔드 : html, css, javascript, jquery, ajax, json, bootstrap  
 - 백엔드 : java, jsp, mysql, tomcat
 
+<br />
 
-  
 ### <주요 기능>
   - 회원 등록
   - 회원 이름검색을 통해 회원 데이터 추천조회
